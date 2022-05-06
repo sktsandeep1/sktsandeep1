@@ -7,7 +7,7 @@ Frontend Developer
 Hardworking and quick learning ability and experience in building frontend design.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Click Here](http://https://sktsandeep1.github.io/portfolio/)
+* 🖥️  See my portfolio at [Click Here](https://sktsandeep1.github.io/portfolio/)
 * ✉️  You can contact me at [sktsandeep1@gmail.com](mailto:sktsandeep1@gmail.com)
 * 🧠  I'm learning Reactjs
 * ⚡  I'm secretly a Meta Human, but don't tell anyone :)
