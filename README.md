@@ -12,6 +12,8 @@ Hardworking and quick learning ability and experience in building frontend desig
 * 🧠  I'm learning Reactjs
 * ⚡  I'm secretly a Meta Human, but don't tell anyone :)
 
+![grab-landing-page](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
+
 <a href="https://www.twitter.com/sktsandeep1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sktsandeep1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
