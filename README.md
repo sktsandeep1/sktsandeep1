@@ -19,7 +19,11 @@ Skills
 ==============================
 
 <p align="left">
-  <img align="right" src="https://media.giphy.com/media/3IqEvVpFUMmll1h5Ri/giphy.gif" width="300" height="200">
+ <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" src="https://media.giphy.com/media/3IqEvVpFUMmll1h5Ri/giphy.gif" width="450" height="250"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -27,17 +31,17 @@ Skills
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
 <a href="https://app.spline.design/files" target="_blank" rel="noreferrer"><img src="https://spline.design/_next/static/chunks/images/spline_logo-c068feca0f6ae756affe68498147df78.png" width="36" height="36" alt="spline" /></a>
   
 </p>
-
+<br>
 
 
 Socials
 ==============================
 
 <p align="left">
+ 
   
 <a href="https://www.twitter.com/sktsandeep1" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
@@ -87,7 +91,7 @@ Badges
 
 Support Me 
 ==============================
-<img align="right" src="https://media.giphy.com/media/7BJBSWyUgZzAn6CYXz/giphy.gif" width="550" height="300"> 
+<img align="right" src="https://media.giphy.com/media/7BJBSWyUgZzAn6CYXz/giphy.gif" width="300" height="200"> 
 <a href="https://www.buymeacoffee.com/sktsandeep1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
