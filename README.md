@@ -4,21 +4,22 @@ Hi 👋 My name is Sandeep Kumar
 Frontend Developer
 ------------------
 
-Hardworking and quick learning ability and experience in building frontend design.
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="550" height="300">
 
-* 🌍  I'm based in India
+<br><br>
+
+* 🌍  I'm based in India 
 * 🖥️  See my portfolio at [Click Here](https://sktsandeep1.github.io/portfolio/)
 * ✉️  You can contact me at [sktsandeep1@gmail.com](mailto:sktsandeep1@gmail.com)
 * 🧠  I'm learning Reactjs
 * ⚡  I'm secretly a Meta Human, but don't tell anyone :shipit:
-
-![grab-landing-page](https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif)
-
-<hr/>
-
-### Skills
+<br><br><br><br><br>
+ 
+Skills
+==============================
 
 <p align="left">
+  <img align="right" src="https://media.giphy.com/media/3IqEvVpFUMmll1h5Ri/giphy.gif" width="300" height="200">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -31,9 +32,10 @@ Hardworking and quick learning ability and experience in building frontend desig
   
 </p>
 
-<hr/>
 
-### Socials
+
+Socials
+==============================
 
 <p align="left">
   
@@ -68,11 +70,12 @@ src="https://img.shields.io/twitter/follow/sktsandeep1?logo=twitter&style=for-th
 /></a>
 
 
-<hr/>
 
-### Badges
 
-<hr/>
+Badges
+==============================
+
+
 
 <b>My GitHub Stats</b>
 
@@ -80,9 +83,11 @@ src="https://img.shields.io/twitter/follow/sktsandeep1?logo=twitter&style=for-th
 
 <a href="https://github.com/sktsandeep1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sktsandeep1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<hr/>
 
-### Support Me 
+
+Support Me 
+==============================
+<img align="right" src="https://media.giphy.com/media/7BJBSWyUgZzAn6CYXz/giphy.gif" width="550" height="300"> 
 <a href="https://www.buymeacoffee.com/sktsandeep1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
