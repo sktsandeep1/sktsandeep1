@@ -7,6 +7,7 @@ Frontend Developer
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450" height="250">
 
 <br>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
