@@ -56,5 +56,4 @@ Socials
 </a>  
 <a href="https://discord.com/users/sktsandeep1" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-</p><a href="https://www.twitter.com/sktsandeep1" target="_blank" rel="noreferrer"><img align="right" src="https://img.shields.io/twitter/follow/sktsandeep1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+</p>
