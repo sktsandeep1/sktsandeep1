@@ -13,9 +13,8 @@ Frontend Developer
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;
 * 🌍  I'm based in India 
-* 🖥️  See my portfolio at [Click Here](https://sktsandeep1.github.io/portfolio/)
+* 🖥️  See my portfolio at -- In Progress
 * ✉️  You can contact me at [sktsandeep1@gmail.com](mailto:sktsandeep1@gmail.com)
-* 🧠  I'm learning Reactjs
 * ⚡  I'm secretly a Meta Human, but don't tell anyone :shipit:
 <br><br><br>
  
@@ -59,31 +58,3 @@ Socials
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p><a href="https://www.twitter.com/sktsandeep1" target="_blank" rel="noreferrer"><img align="right" src="https://img.shields.io/twitter/follow/sktsandeep1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
-
-Badges
-==============================
-
-<b>Github Stats</b>
-<br>
-
-<a href="http://www.github.com/sktsandeep1"><img  align="left" src="https://github-readme-stats.vercel.app/api?username=sktsandeep1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sktsandeep1's GitHub stats"/></a>
-<a href="https://github.com/sktsandeep1"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sktsandeep1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
-
-<br><br><br><br><br><br><br><br><br>
-
-
-Support Me 
-==============================
-
-<br>
-<img align="left" src="https://media.giphy.com/media/7BJBSWyUgZzAn6CYXz/giphy.gif" width="450" height="250">
-<br><br><br><br><br><br><br><br>
-<a href="https://www.buymeacoffee.com/sktsandeep1"><img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-&nbsp;&nbsp;&nbsp;
-
-
-
-
-
-
