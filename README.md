@@ -13,7 +13,7 @@ Frontend Developer
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;
 * 🌍  I'm based in India 
-* 🖥️  See my portfolio at -- In Progress
+* 🖥️  See my portfolio at [sandeep-kumar.in](https://www.sandeep-kumar.in/)
 * ✉️  You can contact me at [sktsandeep1@gmail.com](mailto:sktsandeep1@gmail.com)
 * ⚡  I'm secretly a Meta Human, but don't tell anyone :shipit:
 <br><br><br>
